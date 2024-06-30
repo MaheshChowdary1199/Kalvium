@@ -1,0 +1,12 @@
+Based on this dataset, I will derive 10 key insights.
+
+Total Number of Seats Won by All Parties: Sum of the 'Won' column.
+Total Number of Seats Leading by All Parties: Sum of the 'Leading' column.
+Party with the Most Seats Won: Party with the highest value in the 'Won' column.
+Party with the Most Seats Leading: Party with the highest value in the 'Leading' column.
+Top 5 Parties by Total Seats (Won + Leading): Top 5 parties based on the 'Total' column.
+Percentage of Total Seats Won by Each Party: The share of seats won by each party as a percentage of total seats.
+Average Number of Seats Won per Party: Mean value of the 'Won' column.
+Median Number of Seats Won per Party: Median value of the 'Won' column.
+Distribution of Seats Won: Distribution and variability of seats won across all parties.
+Comparison Between the Top 2 Parties: Comparative analysis of the top 2 parties in terms of seats won and leading.
